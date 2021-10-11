@@ -1,0 +1,13 @@
+comandos basicos de git
+
+git init
+
+git status 
+
+git add .
+
+git commit -m "un mensaje"
+
+git log
+
+git push
